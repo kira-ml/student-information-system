@@ -1,0 +1,40 @@
+# Android Studio / IntelliJ
+*.iml
+/.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+/build/
+/app/build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Local machine configuration (contains the local Android SDK path)
+local.properties
+/local.properties
+
+# Build outputs that should never be committed
+*.aab
+*.hprof
+*.log
+
+# APKs other than the shipped demo build in dist/
+app/build/**/*.apk
+/captures/**/*.apk
+
+# Signing material
+*.jks
+*.keystore
+keystore.properties
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#0F172A</color>
+    <color name="navy_soft">#1E293B</color>
+    <color name="indigo">#4F46E5</color>
+    <color name="indigo_dark">#4338CA</color>
+    <color name="indigo_deep">#312E81</color>
+    <color name="indigo_soft">#EEF2FF</color>
+    <color name="indigo_soft_2">#E0E7FF</color>
+    <color name="background">#F4F6FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_light">#CBD5E1</color>
+    <color name="text_faint">#94A3B8</color>
+    <color name="border">#E2E8F0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#059669</color>
+    <color name="green_soft">#ECFDF5</color>
+    <color name="red">#DC2626</color>
+    <color name="red_soft">#FEF2F2</color>
+    <color name="amber">#D97706</color>
+    <color name="amber_soft">#FFFBEB</color>
+    <color name="purple">#7E22CE</color>
+    <color name="purple_soft">#FAF5FF</color>
+    <color name="launcher_background">#4F46E5</color>
+</resources>

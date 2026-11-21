@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student SIS</string>
+    <string name="app_full_name">Student Information System</string>
+
+    <!-- Login -->
+    <string name="login_overline">REGISTRAR CONSOLE</string>
+    <string name="login_title">Student\nInformation System</string>
+    <string name="login_subtitle">Keep student profiles and academic records organised in one simple, dependable place.</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_card_subtitle">Sign in to manage student records.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="demo_accounts">DEMO ACCOUNTS</string>
+    <string name="demo_registrar">Registrar</string>
+    <string name="demo_faculty">Faculty</string>
+    <string name="demo_admin_credentials">admin / admin123</string>
+    <string name="demo_teacher_credentials">teacher / teacher123</string>
+    <string name="demo_tap_hint">Tap this card to fill in the registrar account.</string>
+    <string name="login_local_note">Records are stored locally on this device.</string>
+    <string name="error_username_required">Enter your username.</string>
+    <string name="error_password_required">Enter your password.</string>
+    <string name="error_invalid_login">Incorrect username or password. Please try again.</string>
+    <string name="content_desc_school_logo">School logo</string>
+
+    <!-- Dashboard -->
+    <string name="student_records">Student Records</string>
+    <string name="dashboard_subtitle">Manage profiles and academic information.</string>
+    <string name="signed_in_as">SIGNED IN AS</string>
+    <string name="search_hint">Search students…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="stat_students">Students</string>
+    <string name="stat_programs">Programs</string>
+    <string name="stat_years">Year levels</string>
+    <string name="all_students">All Students</string>
+    <string name="add_student">Add Student</string>
+    <string name="no_students_title">No student records yet</string>
+    <string name="no_students_subtitle">Add your first student to get started.</string>
+    <string name="no_results_title">No matching students</string>
+    <string name="no_results_subtitle">Try a different name, number, program, or year.</string>
+    <string name="content_desc_add_student">Add student</string>
+    <string name="content_desc_search">Search</string>
+    <string name="content_desc_more_options">More options</string>
+    <string name="content_desc_empty_students">No students</string>
+    <string name="content_desc_sign_out">Sign out</string>
+    <string name="program_year">%1$s  •  %2$s</string>
+
+    <!-- Form -->
+    <string name="form_subtitle">Enter the student\'s personal and academic information.</string>
+    <string name="student_number">Student number</string>
+    <string name="student_number_helper">Example: 2026-00123</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="middle_name">Middle name (optional)</string>
+    <string name="program">Program</string>
+    <string name="year_level">Year level</string>
+    <string name="add_student_title">Add Student</string>
+    <string name="edit_student_title">Edit Student</string>
+    <string name="add_student_action">Add Student</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="content_desc_back">Back</string>
+    <string name="saved_on_device">Saved locally on this device.</string>
+    <string name="error_required_field">This field is required.</string>
+    <string name="error_invalid_number">Use letters, numbers and hyphens only (max 24 characters).</string>
+    <string name="error_duplicate_number">Student number %1$s is already in use.</string>
+    <string name="error_invalid_name">Use letters, spaces, periods, apostrophes or hyphens only.</string>
+    <string name="error_select_program">Select a program from the list.</string>
+    <string name="error_select_year">Select a year level from the list.</string>
+    <string name="error_save_failed">Could not save the record: %1$s</string>
+    <string name="student_added">Student record added</string>
+    <string name="student_updated">Student record updated</string>
+    <string name="student_deleted">Student record deleted</string>
+
+    <!-- Dialogs and menus -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="delete_dialog_title">Delete student?</string>
+    <string name="delete_dialog_message">Delete the record of %1$s (%2$s)? This cannot be undone.</string>
+    <string name="logout_dialog_title">Sign out?</string>
+    <string name="logout_dialog_message">Sign out of the student records system?</string>
+    <string name="error_delete_failed">The record could not be deleted.</string>
+    <string name="error_load_failed">Student records could not be loaded.</string>
+</resources>
